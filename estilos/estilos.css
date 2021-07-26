@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Griffy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Griffy&display=swap');
+
+body
+{
+    background-image: linear-gradient(40deg, #033859, #0f9fbf);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100em;
+    height: 59.5em;
+}
+
+.grande
+{
+    background-color: #033859;
+    border-radius: 15px;
+    width: 45em;
+    height: 30em;
+}
+
+.general
+{
+    width: 100%;
+    height: 97%;
+}
+
+.gen_arriba
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 80%;
+}
+
+.t1
+{
+    width: 95%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Griffy';
+    font-size: 40px;
+}
+.t2
+{
+    width: 95%;
+    height: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Grenze Gotisch';
+    font-size: 17px;
+}
+
+.log
+{
+    width: 2em;
+    height: 2em;
+}
+
+.arr_text
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 90%;
+}
+
+.logazo img
+{
+    width: 21em;
+    height: 14em;
+}
+
+.icons
+{
+    width: 100%;
+    height: 15%;
+}
+
+.icons img
+{
+    width: 3em;
+    height: 3em;
+}
